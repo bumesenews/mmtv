@@ -1,4 +1,7 @@
 [
-"maindata":"https://raw.githubusercontent.com/pkutoelay-alt/football-json-delivery/refs/heads/main/data/matches.json"
+"maindata":"https://raw.githubusercontent.com/pkutoelay-alt/football-json-delivery/refs/heads/main/matches.json",
+"soco":"https://raw.githubusercontent.com/pkutoelay-alt/football-json-delivery/refs/heads/main/soco.json",
+"highlight":"https://raw.githubusercontent.com/pkutoelay-alt/football-json-delivery/refs/heads/main/highlight.json",
+"myanmartv":"https://raw.githubusercontent.com/pkutoelay-alt/football-json-delivery/refs/heads/main/myanmartv.json"
   
 ]
